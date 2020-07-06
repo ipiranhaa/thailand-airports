@@ -1,2 +1,2 @@
 # thailand-airports
-🇹🇭✈️ Thailand's commercial airports list
+Thailand's commercial airport list represent by JSON format

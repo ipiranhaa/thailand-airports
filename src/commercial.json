@@ -1,0 +1,42 @@
+[
+    {
+        "region": {
+            "en": "กลาง",
+            "th": "Central"
+        },
+        "province": {
+            "en": "Bangkok",
+            "th": "กรุงเทพมหานคร"
+        },
+        "district": {
+            "en": "Don Mueang",
+            "th": "ดอนมือง"
+        },
+        "iata": "DMK",
+        "name": {
+            "en": "Don Mueang International Airport",
+            "th": "ท่าอากาศยานนานาชาติดอนเมือง"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "กลาง",
+            "th": "Central"
+        },
+        "province": {
+            "en": "Samut Prakan",
+            "th": "สมุทรปราการ"
+        },
+        "district": {
+            "en": "Bang Phil",
+            "th": "บางพลี"
+        },
+        "iata": "BKK",
+        "name": {
+            "en": "Suvarnabhumi International Airport",
+            "th": "ท่าอากาศยานนานาชาติสุวรรณภูมิ"
+        },
+        "isInternation": false
+    }
+]
