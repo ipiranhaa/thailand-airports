@@ -1,0 +1,42 @@
+[
+    {
+        "region": {
+            "en": "East",
+            "th": "ตะวันออก"
+        },
+        "province": {
+            "en": "Trat",
+            "th": "ตราด"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "TDX",
+        "name": {
+            "en": "Trat Airport",
+            "th": "ท่าอากาศยานตราด"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "East",
+            "th": "ตะวันออก"
+        },
+        "province": {
+            "en": "Rayong",
+            "th": "ระยอง"
+        },
+        "district": {
+            "en": "Ban Chang",
+            "th": "บ้านฉาง"
+        },
+        "iata": "UTP",
+        "name": {
+            "en": "U-Tapao International Airport",
+            "th": "ท่าอากาศยานนานาชาติอู่ตะเภา"
+        },
+        "isInternation": true
+    }
+]
