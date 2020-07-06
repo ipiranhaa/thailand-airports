@@ -1,0 +1,222 @@
+[
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Songkla",
+            "th": "สงขลา"
+        },
+        "district": {
+            "en": "Khlong Hoi Khong",
+            "th": "คลองหอยโข่ง"
+        },
+        "iata": "HDY",
+        "name": {
+            "en": "Hat Yai International Airport",
+            "th": "ท่าอากาศยานนานาชาติหาดใหญ่"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Phuket",
+            "th": "ภูเก็ต"
+        },
+        "district": {
+            "en": "Thalang",
+            "th": "ถลาง"
+        },
+        "iata": "HKT",
+        "name": {
+            "en": "Phuket International Airport",
+            "th": "ท่าอากาศยานนานาชาติภูเก็ต"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Surat Thani",
+            "th": "สุราษฎร์ธานี"
+        },
+        "district": {
+            "en": "Koh Samui",
+            "th": "เกาะสมุย"
+        },
+        "iata": "USM",
+        "name": {
+            "en": "Samui International Airport",
+            "th": "ท่าอากาศยานนานาชาติสมุย"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Surat Thani",
+            "th": "สุราษฎร์ธานี"
+        },
+        "district": {
+            "en": "Punpin",
+            "th": "พุนพิน"
+        },
+        "iata": "URT",
+        "name": {
+            "en": "Surat Thani International Airport",
+            "th": "ท่าอากาศยานนานาชาติสุราษฎร์ธานี"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Nakhon Si Thammarat",
+            "th": "นครศรีธรรมราช"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "NST",
+        "name": {
+            "en": "Nakhon Si Thammarat Airport",
+            "th": "ท่าอากาศยานนครศรีธรรมราช"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Krabi",
+            "th": "กระบี่"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "KBV",
+        "name": {
+            "en": "Krabi International Airport",
+            "th": "ท่าอากาศยานนานาชาติกระบี่"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Trang",
+            "th": "ตรัง"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "TST",
+        "name": {
+            "en": "Trang Airport",
+            "th": "ท่าอากาศยานตรัง"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Ranong",
+            "th": "ระนอง"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "UNN",
+        "name": {
+            "en": "Ranong Airport",
+            "th": "ท่าอากาศยานระนอง"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Chumphon",
+            "th": "ชุมพร"
+        },
+        "district": {
+            "en": "Patil",
+            "th": "ปะทิว"
+        },
+        "iata": "CJM",
+        "name": {
+            "en": "Chumphon Airport",
+            "th": "ท่าอากาศยานชุมพร"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Prachuap Khiri Khan",
+            "th": "ประจวบคีรีขันธ์"
+        },
+        "district": {
+            "en": "Hua Hin",
+            "th": "หัวหิน"
+        },
+        "iata": "HHQ",
+        "name": {
+            "en": "Hua Hin Airport",
+            "th": "ท่าอากาศยานหัวหิน"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "South",
+            "th": "ใต้"
+        },
+        "province": {
+            "en": "Narathiwat",
+            "th": "นราธิวาส"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "NAW",
+        "name": {
+            "en": "Narathiwat Airport",
+            "th": "ท่าอากาศยานนราธิวาส"
+        },
+        "isInternation": false
+    }
+]
