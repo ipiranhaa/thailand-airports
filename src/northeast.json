@@ -1,0 +1,162 @@
+[
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Roi Et",
+            "th": "ร้อยเอ็ด"
+        },
+        "district": {
+            "en": "Thawat Buri",
+            "th": "ธวัชบุรี"
+        },
+        "iata": "ROI",
+        "name": {
+            "en": "Roi Et Airport",
+            "th": "ท่าอากาศยานร้อยเอ็ด"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Nakhon Phanom",
+            "th": "ร้อยเอ็ด"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "KOP",
+        "name": {
+            "en": "Nakhon Phanom Airport",
+            "th": "ท่าอากาศยานนครพนม"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Ubon Ratchathani",
+            "th": "อุบลราชธานี"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "UBP",
+        "name": {
+            "en": "Ubon Ratchathani International Airport",
+            "th": "ท่าอากาศยานนานาชาติอุบลราชธานี"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Loei",
+            "th": "เลย"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "LOE",
+        "name": {
+            "en": "Loei Airport",
+            "th": "ท่าอากาศยานเลย"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Khon Kaen",
+            "th": "ขอนแก่น"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "KKC",
+        "name": {
+            "en": "Khon Kaen Airport",
+            "th": "ท่าอากาศยานขอนแก่น"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Udon Thani",
+            "th": "อุดรธานี"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "UTH",
+        "name": {
+            "en": "Udon Thani International Airport",
+            "th": "ท่าอากาศยานนานาชาติอุดรธานี"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Sakon Nakhon",
+            "th": "สกลนคร"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "SNO",
+        "name": {
+            "en": "Sakon Nakhon Airport",
+            "th": "ท่าอากาศยานสกลนคร"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "Northeast",
+            "th": "ตะวันออกเฉียงเหนือ"
+        },
+        "province": {
+            "en": "Buriram",
+            "th": "บุรีรัมย์"
+        },
+        "district": {
+            "en": "Satuek",
+            "th": "สตึก"
+        },
+        "iata": "BFV",
+        "name": {
+            "en": "Buriram Airport",
+            "th": "ท่าอากาศยานบุรีรัมย์"
+        },
+        "isInternation": false
+    }
+]
