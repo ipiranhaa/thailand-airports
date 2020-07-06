@@ -1,8 +1,8 @@
 [
     {
         "region": {
-            "en": "กลาง",
-            "th": "Central"
+            "en": "Central",
+            "th": "กลาง"
         },
         "province": {
             "en": "Bangkok",
@@ -21,8 +21,8 @@
     },
     {
         "region": {
-            "en": "กลาง",
-            "th": "Central"
+            "en": "Central",
+            "th": "กลาง"
         },
         "province": {
             "en": "Samut Prakan",
@@ -37,6 +37,6 @@
             "en": "Suvarnabhumi International Airport",
             "th": "ท่าอากาศยานนานาชาติสุวรรณภูมิ"
         },
-        "isInternation": false
+        "isInternation": true
     }
 ]

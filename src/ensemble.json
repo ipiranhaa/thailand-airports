@@ -1,0 +1,282 @@
+[
+    {
+        "region": {
+            "en": "Central",
+            "th": "กลาง"
+        },
+        "province": {
+            "en": "Bangkok",
+            "th": "กรุงเทพมหานคร"
+        },
+        "district": {
+            "en": "Don Mueang",
+            "th": "ดอนมือง"
+        },
+        "iata": "DMK",
+        "name": {
+            "en": "Don Mueang International Airport",
+            "th": "ท่าอากาศยานนานาชาติดอนเมือง"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "Central",
+            "th": "กลาง"
+        },
+        "province": {
+            "en": "Samut Prakan",
+            "th": "สมุทรปราการ"
+        },
+        "district": {
+            "en": "Bang Phil",
+            "th": "บางพลี"
+        },
+        "iata": "BKK",
+        "name": {
+            "en": "Suvarnabhumi International Airport",
+            "th": "ท่าอากาศยานนานาชาติสุวรรณภูมิ"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Chiang Mai",
+            "th": "เชียงใหม่"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "CNX",
+        "name": {
+            "en": "Chiang Mai International Airport",
+            "th": "ท่าอากาศยานนานาชาติเชียงใหม่"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Chiang Rai",
+            "th": "เชียงราย"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "CEI",
+        "name": {
+            "en": "Chiang Rai International Airport",
+            "th": "ท่าอากาศยานนานาชาติเชียงราย"
+        },
+        "isInternation": true
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Tak",
+            "th": "ตาก"
+        },
+        "district": {
+            "en": "Mae Sot",
+            "th": "แม่สอด"
+        },
+        "iata": "MAQ",
+        "name": {
+            "en": "Mae Sot Airport",
+            "th": "ท่าอากาศยานแม่สอด"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Mae Hong Son",
+            "th": "แม่ฮ่องสอน"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "HGN",
+        "name": {
+            "en": "Mae Hong Son Airport",
+            "th": "ท่าอากาศยานแม่ฮ่องสอน"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Mae Hong Son",
+            "th": "แม่ฮ่องสอน"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "HGN",
+        "name": {
+            "en": "Mae Hong Son Airport",
+            "th": "ท่าอากาศยานแม่ฮ่องสอน"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Mae Hong Son",
+            "th": "แม่ฮ่องสอน"
+        },
+        "district": {
+            "en": "Pai",
+            "th": "ปาย"
+        },
+        "iata": "PYY",
+        "name": {
+            "en": "Pai Airport",
+            "th": "ท่าอากาศยานปาย"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Lampang",
+            "th": "ลำปาง"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "LPT",
+        "name": {
+            "en": "Lampang Airport",
+            "th": "ท่าอากาศยานลำปาง"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Phitsanulok",
+            "th": "พิษณุโลก"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "PHS",
+        "name": {
+            "en": "Phitsanulok Airport",
+            "th": "ท่าอากาศยานพิษณุโลก"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Phitsanulok",
+            "th": "พิษณุโลก"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "PHS",
+        "name": {
+            "en": "Phitsanulok Airport",
+            "th": "ท่าอากาศยานพิษณุโลก"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Sukhothai",
+            "th": "สุโขทัย"
+        },
+        "district": {
+            "en": "Sawan Kalok",
+            "th": "สวรรคโลก"
+        },
+        "iata": "THS",
+        "name": {
+            "en": "Sukhothai Airport",
+            "th": "ท่าอากาศยานสุโขทัย"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Nan",
+            "th": "น่าน"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "NNT",
+        "name": {
+            "en": "Nan Airport",
+            "th": "ท่าอากาศยานน่าน"
+        },
+        "isInternation": false
+    },
+    {
+        "region": {
+            "en": "North",
+            "th": "เหนือ"
+        },
+        "province": {
+            "en": "Phrae",
+            "th": "แพร่"
+        },
+        "district": {
+            "en": "Mueang",
+            "th": "เมือง"
+        },
+        "iata": "PRH",
+        "name": {
+            "en": "Phrae Airport",
+            "th": "ท่าอากาศยานแพร่"
+        },
+        "isInternation": false
+    }
+]
