@@ -129,26 +129,6 @@
             "th": "แม่ฮ่องสอน"
         },
         "district": {
-            "en": "Mueang",
-            "th": "เมือง"
-        },
-        "iata": "HGN",
-        "name": {
-            "en": "Mae Hong Son Airport",
-            "th": "ท่าอากาศยานแม่ฮ่องสอน"
-        },
-        "isInternation": false
-    },
-    {
-        "region": {
-            "en": "North",
-            "th": "เหนือ"
-        },
-        "province": {
-            "en": "Mae Hong Son",
-            "th": "แม่ฮ่องสอน"
-        },
-        "district": {
             "en": "Pai",
             "th": "ปาย"
         },
@@ -176,26 +156,6 @@
         "name": {
             "en": "Lampang Airport",
             "th": "ท่าอากาศยานลำปาง"
-        },
-        "isInternation": false
-    },
-    {
-        "region": {
-            "en": "North",
-            "th": "เหนือ"
-        },
-        "province": {
-            "en": "Phitsanulok",
-            "th": "พิษณุโลก"
-        },
-        "district": {
-            "en": "Mueang",
-            "th": "เมือง"
-        },
-        "iata": "PHS",
-        "name": {
-            "en": "Phitsanulok Airport",
-            "th": "ท่าอากาศยานพิษณุโลก"
         },
         "isInternation": false
     },
