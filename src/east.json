@@ -17,7 +17,7 @@
             "en": "Trat Airport",
             "th": "ท่าอากาศยานตราด"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -37,6 +37,6 @@
             "en": "U-Tapao International Airport",
             "th": "ท่าอากาศยานนานาชาติอู่ตะเภา"
         },
-        "isInternation": true
+        "isInternational": true
     }
 ]

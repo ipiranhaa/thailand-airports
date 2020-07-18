@@ -17,7 +17,7 @@
             "en": "Don Mueang International Airport",
             "th": "ท่าอากาศยานนานาชาติดอนเมือง"
         },
-        "isInternation": true
+        "isInternational": true
     },
     {
         "region": {
@@ -37,6 +37,6 @@
             "en": "Suvarnabhumi International Airport",
             "th": "ท่าอากาศยานนานาชาติสุวรรณภูมิ"
         },
-        "isInternation": true
+        "isInternational": true
     }
 ]

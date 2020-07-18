@@ -17,7 +17,7 @@
             "en": "Chiang Mai International Airport",
             "th": "ท่าอากาศยานนานาชาติเชียงใหม่"
         },
-        "isInternation": true
+        "isInternational": true
     },
     {
         "region": {
@@ -37,7 +37,7 @@
             "en": "Chiang Rai International Airport",
             "th": "ท่าอากาศยานนานาชาติเชียงราย"
         },
-        "isInternation": true
+        "isInternational": true
     },
     {
         "region": {
@@ -57,7 +57,7 @@
             "en": "Mae Sot Airport",
             "th": "ท่าอากาศยานแม่สอด"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -77,7 +77,7 @@
             "en": "Mae Hong Son Airport",
             "th": "ท่าอากาศยานแม่ฮ่องสอน"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -97,7 +97,7 @@
             "en": "Pai Airport",
             "th": "ท่าอากาศยานปาย"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -117,7 +117,7 @@
             "en": "Lampang Airport",
             "th": "ท่าอากาศยานลำปาง"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -137,7 +137,7 @@
             "en": "Phitsanulok Airport",
             "th": "ท่าอากาศยานพิษณุโลก"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -157,7 +157,7 @@
             "en": "Sukhothai Airport",
             "th": "ท่าอากาศยานสุโขทัย"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -177,7 +177,7 @@
             "en": "Nan Airport",
             "th": "ท่าอากาศยานน่าน"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -197,6 +197,6 @@
             "en": "Phrae Airport",
             "th": "ท่าอากาศยานแพร่"
         },
-        "isInternation": false
+        "isInternational": false
     }
 ]

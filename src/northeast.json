@@ -17,7 +17,7 @@
             "en": "Roi Et Airport",
             "th": "ท่าอากาศยานร้อยเอ็ด"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -37,7 +37,7 @@
             "en": "Nakhon Phanom Airport",
             "th": "ท่าอากาศยานนครพนม"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -57,7 +57,7 @@
             "en": "Ubon Ratchathani International Airport",
             "th": "ท่าอากาศยานนานาชาติอุบลราชธานี"
         },
-        "isInternation": true
+        "isInternational": true
     },
     {
         "region": {
@@ -77,7 +77,7 @@
             "en": "Loei Airport",
             "th": "ท่าอากาศยานเลย"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -97,7 +97,7 @@
             "en": "Khon Kaen Airport",
             "th": "ท่าอากาศยานขอนแก่น"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -117,7 +117,7 @@
             "en": "Udon Thani International Airport",
             "th": "ท่าอากาศยานนานาชาติอุดรธานี"
         },
-        "isInternation": true
+        "isInternational": true
     },
     {
         "region": {
@@ -137,7 +137,7 @@
             "en": "Sakon Nakhon Airport",
             "th": "ท่าอากาศยานสกลนคร"
         },
-        "isInternation": false
+        "isInternational": false
     },
     {
         "region": {
@@ -157,6 +157,6 @@
             "en": "Buriram Airport",
             "th": "ท่าอากาศยานบุรีรัมย์"
         },
-        "isInternation": false
+        "isInternational": false
     }
 ]
